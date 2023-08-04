@@ -318,9 +318,10 @@ footer img {
 
 @media (max-width: 600px) {
     header {
-        background-image: url(./img/background.png);
-
-        background-size:cover;
+        background-image: url(./img/fondocel.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
     }
     main {
         width: 100%;
