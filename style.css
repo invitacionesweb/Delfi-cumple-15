@@ -85,6 +85,11 @@ header .animales {
     margin: 0px;
     margin: 0px;
 }
+.animales p {
+    font-size:2em;
+    margin: 0px;
+    margin: 0px;
+}
 .button {
     border: 1px solid var(--color-terciario);
     background-color: var(--color-terciario);
@@ -104,6 +109,7 @@ header .animales {
     text-decoration: none;
     margin-top:0px;
     border-radius: 50px;
+
  }
  .boton:hover {
      color: var(--color-secundario);
@@ -196,7 +202,7 @@ main img {
 }
 main p {
     padding: 6px 40px 30px 40px;
-    font-size: 1em;
+    font-size: 1.1em;
     max-width: 500px;
 }
 .galeria {
@@ -229,7 +235,7 @@ main p {
 .segundo p {
     padding: 6px 40px;
     max-width: 500px;
-    font-size: 1em;
+    font-size: 1.1em;
     
 }
 .segundo img{
